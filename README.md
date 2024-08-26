@@ -21,3 +21,4 @@ Avaliação dos profissionais - Utilizando a linguagem de programação Python.
 Escolha e agendamento de serviço - Utilizando IA (Machine Learning).
 Localização geográfica - Rede de Computadores.
 Informações sobre a empresa prestadora de serviço, como meios de pagamento e serviços prestados - Seguindo as normas de Segurança da Informação.
+...
